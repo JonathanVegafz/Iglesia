@@ -4,7 +4,7 @@ function Cancion() {
     return ( <>
 
         <Stack spacing={3} sx={{padding:"20px"}}>
-            <h2>Canciones</h2>
+            <h2>Cancionesd</h2>
         </Stack>
     </> );
 }
