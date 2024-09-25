@@ -1,0 +1,24 @@
+{
+    "canciones":[
+        {
+            "version": 0,
+            "nombre": "",
+            "autor": "",
+            "linkVideo": "",
+            "linkSpotify":"",
+            "linkAcordes":"",
+            "letra": "",
+            "fechaActualizacion": ""
+        },
+        {
+            "version": 0,
+            "nombre": "",
+            "autor": "",
+            "linkVideo": "",
+            "linkSpotify":"",
+            "linkAcordes":"",
+            "letra": "",
+            "fechaActualizacion": ""
+        }
+    ]
+}
